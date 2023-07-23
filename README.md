@@ -61,7 +61,7 @@ public void setNama(String nama) {
     this.nama = nama;
 }
 
-public void setNpm(String harga) {
+public void setHarga(String harga) {
     this.harga = harga;
 }
 ```
